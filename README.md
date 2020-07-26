@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **srimajji/srimajji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Twitter: [@futuresri](https://twitter.com/futuresri)
+- Web: [https://sri.dev/](https://sri.dev/)
