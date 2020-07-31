@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - Twitter: [@futuresri](https://twitter.com/futuresri)
-- Web: [https://sri.dev/](sri.dev)
+- Web: [sri.dev](https://sri.dev/)
