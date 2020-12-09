@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
 <img align='right' width=160 src='./Octacat.png' />
-</center>
 
 - Twitter: [@futuresri](https://twitter.com/futuresri)
 - Web: [sri.dev](https://sri.dev/)
