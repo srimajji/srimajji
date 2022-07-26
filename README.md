@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi I'm Sri 👋
+
+Welcome to my profile! I am currently working as a Technical Lead for @qwicengineering while enjoying the best of european life in Amsterdam.
+
 <img align='right' width=160 src='./Octacat.png' />
 
 - Twitter: [@futuresri](https://twitter.com/futuresri)
